@@ -1,3 +1,3 @@
 # SA-Crash-Analysis
 EDA,
-Click on Release to see full project
+Click on Releases to see full project
